@@ -11,4 +11,3 @@ function btnPress() {
   score++;
   postToPage(score);
 }
-
